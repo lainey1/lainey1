@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lainey1
+- 👋 Hi, I’m @lainey1!
 - 👀 I’m interested in how tech can help improve the mental health industry.
 - 🌱 I’m currently learning full-stack web development at App Academy.
 - 💞️ I’m looking to collaborate and learn with others early in their software engineering journey. 
