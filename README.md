@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lainey1!
 - 👀 I’m interested in how tech can help improve the mental health industry.
-- 🌱 I’m currently upskilling my programming skills at App Academy.
+- 🌱 I’m currently upskilling my programming at App Academy.
 - 💞️ I’m looking to collaborate and learn with others early in their software engineering journey. 
 - 📫 Message me on LinkedIn (https://www.linkedin.com/in/laineypad/)
 - 😄 Pronouns: she/her
