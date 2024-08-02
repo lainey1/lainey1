@@ -6,3 +6,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I designed and launched scalable global programs and processes for about 12 years as a business ops professional for startups to 150K+ person companies. My first real job was as an ops coordinator at Google, and I taught myself Apps Script to automate time-intensive and repetitive tasks so that I could focus on bigger-picture problems. By the end of my tenure at Google, I wanted a new challenge and left to become a founding member of an ops department at a start-up. While there, I was leading a project to launch an AI chatbot for our HR department and realized I missed being more hands-on and applying my technical skills. So after 12 years in biz ops, I decided to commit to a career in software engineering.  
 
+## Tech Stack
+
+### 📚 Languages
+JavaScript | HTML5 | CSS3 |
+
+### 🪛 Tools and Platforms
+NodeJS | React | Mocha | Chai | npm | GitHub 
