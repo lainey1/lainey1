@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to cross-stitch. It's like coding. I stitch patterns together to create something cool/fun/beautiful. 
 
-- How did I get here? My first real job was as an ops coordinator for Google's HR department. While there, I taught myself Apps Script to automate time-intensive and repetitive tasks so that I could focus on bigger-picture problems and began working with software engineers to create long-term tech solutions for our HR department. I left Google to challenge myself further by becoming a founding member at a unique start-up that was inheriting over 1K employees from Intel and was tasked with building out the systems and operations for our HR department. While there, I led a project to launch an AI chatbot for our HR department and decided I'd like to be a software engineer instead of just working with software engineers. 
+- How did I get here? My first real job was as an ops coordinator in Google's HR department, and I taught myself Apps Script to automate those time-intensive and repetitive tasks I didn't want to do manually so that I could focus on bigger-picture problems. Eventually, I began collaborating with software engineers to create long-term tech solutions for our HR department. I left Google after almost 10 years to become a founding member at a unique start-up that was inheriting over 1K (demanding) employees from Intel, and I was tasked with building out the global systems and operations for our HR department from scratch. While there, I led a project to launch an AI chatbot for our HR department and this project helped me realize that I'd like to be a software engineer rather than just working with software engineers. 
 
 ## Tech Stack
 
