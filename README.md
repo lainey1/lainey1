@@ -11,7 +11,7 @@
 ## Tech Stack
 
 ### 📚 Languages
-JavaScript | HTML | CSS
+JavaScript | SQL | HTML | CSS
 
 ### 🪛 Tools and Platforms
 NodeJS | React | Mocha | Chai | npm | GitHub 
