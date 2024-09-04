@@ -18,4 +18,4 @@ NodeJS | React | Mocha | Chai | npm | GitHub
 
 # Contributions
 - Partnered with [Moveworks to launch an AI Chatbot](https://www.moveworks.com/us/en/company/news/press-releases/introducing-moveworks-for-hr) to provide global HR support for 1,000+ employees.
-- [Designed internal process and tool for covid-19 leave requests at Google.](https://www.cnn.com/2020/04/16/tech/google-family-leave-policy/index.html)
+- [Designed Google's internal process and request tool for covid-19 leave requests](https://www.cnn.com/2020/04/16/tech/google-family-leave-policy/index.html) to support 100,000 global workforce. 
