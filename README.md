@@ -8,6 +8,10 @@
 
 📫 Feel free to connect with me on LinkedIn: [Lainey Paddock](https://www.linkedin.com/in/laineypad/)
 
+📰 Check out my new Medium profile: [LaineyCodes](laineycodes.medium.com)
+
+👷🏽‍♀️ [Personal Site under construction](https://lainey1.github.io/)
+
 😄 Pronouns: she/her
 
 **⚡ Fun fact**: I enjoy cross-stitching! It’s a lot like coding—both involve stitching together elements to craft something unique and beautiful.
