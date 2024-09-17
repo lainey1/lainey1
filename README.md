@@ -22,9 +22,9 @@ const lainey = {
 ## Socials
 - 📫 Feel free to connect with me on LinkedIn: [Lainey Paddock](https://www.linkedin.com/in/laineypad/)
 - 📰 Check out my new Medium profile: [LaineyCodes](laineycodes.medium.com)
-- 👷🏽‍♀️ [Personal Site under construction](https://lainey1.github.io/)
+- 👷🏽‍♀️ [Personal Site Under Construction](https://lainey1.github.io/)
 
-- ## Projects
+- ## Projects [Under Construction]
 - [Project Name](link-to-project): Brief description of the project and the technologies used.
 
   <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxd3owcDZqcnB6Y3BrcTY2dG8yY2NrZGp3ZmM0ZHoyOW94bnY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
