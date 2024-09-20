@@ -2,16 +2,18 @@
 
 ```js
 const lainey = {
-  pronouns: "she" | "her",
+  pronouns: "she/her",
   code: [Javascript, HTML, CSS, SQL, Python],
-  tools: [React, Redux, Node, Express, Sequelize, Mocha, Git],
-  challenge: "Building first full stack app at AppAcademy.",
-  interests: "Creating impactful solutions that drive innovation and efficiency",
-  funFact: "Enjoys cross-stitching. Like coding, it involves stitching together elements to craft something unique",
+  tools: [React, Redux, Node, Express, Sequelize, Mocha, Git, Render],
+  databases: [PostgreSQL],
+  challenge: "Building first full-stack app at AppAcademy.",
+  interests: "Creating impactful solutions that drive innovation and efficiency.",
+  funFact: "Enjoys cross-stitching. Like coding, it involves stitching together elements to craft something unique.",
   techCommunities: {
-                        member: "Xoogler",
-                      },
- }
+    member: "Xoogler",
+  },
+};
+
 ```
 
 ## Accomplishments
