@@ -39,7 +39,7 @@ const lainey = {
 
 
 ### 👷‍♀️ Portfolio Projects
-- **PawSpot** [(repo)]((https://github.com/lainey1/PawSpot)) / [(site)](link-to-project):  An online marketplace for short-and-long-term homestays and experiences for dogs and cats. Built with a PostgreSQL database, Express for the back end, and React with Redux for the front end. This project showcases my ability to create a full-stack application, managing both server-side and client-side functionalities using JavaScript and SQL.
+- **UNDER CONSTRUCTION - PawSpot** [(repo)](https://github.com/lainey1/PawSpot) / [(site)](https://pawspot.onrender.com):  An online marketplace for short-and-long-term homestays and experiences for dogs and cats. Built with a PostgreSQL database, Express for the back end, and React with Redux for the front end. This project showcases my ability to create a full-stack application, managing both server-side and client-side functionalities using JavaScript and SQL.
 - 
   <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxd3owcDZqcnB6Y3BrcTY2dG8yY2NrZGp3ZmM0ZHoyOW94bnY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
