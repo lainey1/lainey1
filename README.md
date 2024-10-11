@@ -38,8 +38,9 @@ const lainey = {
 - [Designed Google's internal process automation tool for COVID-19 leave requests, streamlining workflows and scaling support for a workforce of 100,000+ employees.](https://www.cnn.com/2020/04/16/tech/google-family-leave-policy/index.html)
 
 
-### 👷‍♀️ Projects [Under Construction]
-- [Project Name](link-to-project): Brief description of the project and the technologies used.
+### 👷‍♀️ Portfolio Projects
+- **PawPlace** [(repo)](https://github.com/lainey1/PawPlace) / [(site)](link-to-project):  An online marketplace for short-and-long-term homestays and experiences for dogs and cats. Built with a PostgreSQL database, Express for the back end, and React with Redux for the front end. This project showcases my ability to create a full-stack application, managing both server-side and client-side functionalities using JavaScript and SQL.
+- 
   <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxd3owcDZqcnB6Y3BrcTY2dG8yY2NrZGp3ZmM0ZHoyOW94bnY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 ### :fire: My Stats
