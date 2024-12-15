@@ -1,25 +1,24 @@
 # Lainey (Dailo) Paddock
 
-#### 📧 [Email Me](mailto:lainey.d.paddock@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laineypad/) | [Portfolio Site](https://lainey1.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Lainey!;I'm+a+full+stack+web+developer...;I+mostly+code+in+JavaScript...;I'm+learning+Python,+and+AWS...;I'm+always+learning...;and+I+love+it!)](https://git.io/typing-svg)
 
----
-
-## 👋 Hi, I’m @lainey1!
+#### 📧 [Email Me](mailto:lainey.code@gmail.com) | [Portfolio Site](https://lainey1.github.io/) |[LinkedIn](https://www.linkedin.com/in/laineypad/) | [Resume](https://docs.google.com/document/d/1KiGK1FMftqQkUUQ2_-_DePFt3D-b19Oeq7qtliHAXYY/view)
 
 ```js
 const lainey = {
   pronouns: "she/her",
-  languages: [Javascript, HTML, CSS, SQL, Python],
-  tools: [React, Redux, Express, Flask, Sequelize, SQLAlchemyy, PostgreSQL],
+  languages: [Javascript, Python HTML, CSS, SQL],
+  frameworksAndLibraries: [React, Redux, Express, Sequelize, Flask, SQLAlchemy, Sequelize],
+  databases: [PostgreSQL, SQLite3],
+  otherTools: [AWS, JWT, Git, Docker, Postman, LucidChart, Asana, SmartSheets, Salesforce, ServiceNow, Workday],
   interests:
     "Creating impactful solutions that drive innovation and efficiency.",
   techCommunities: {
     member: "Xoogler",
   },
+  nextChallenge:"Teach myself TypeScript",
 };
 ```
-
----
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -38,15 +37,9 @@ const lainey = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 👷‍♀️ Portfolio Projects
-
-- **PawSpot** [(repo)](https://github.com/lainey1/PawSpot) / [(site)](https://pawspot.onrender.com): An online marketplace for short-and-long-term homestays and experiences for dogs and cats. Built with a PostgreSQL database, Express for the back end, and React with Redux for the front end. This project showcases my ability to create a full-stack application, managing both server-side and client-side functionalities using JavaScript and SQL.
-
 ### :fire: Github Streak Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lainey1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzcxd3owcDZqcnB6Y3BrcTY2dG8yY2NrZGp3ZmM0ZHoyOW94bnY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 ### :trophy: Accomplishments
 
